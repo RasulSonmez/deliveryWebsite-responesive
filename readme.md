@@ -2,7 +2,7 @@
 
 <hr/>
 
-### [Live Website](https://rasulsonmez.github.io/onePageTemplate/)
+### [Live Website](https://rasulsonmez.github.io/deliveryWebsite-responesive/)
 
 ## Used packages cdn
 
