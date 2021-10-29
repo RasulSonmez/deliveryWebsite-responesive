@@ -1,0 +1,22 @@
+//Contact
+
+.contact{
+    &__container{
+        padding-bottom: 3rem;
+    }
+    &__decription{
+        text-align: center;
+    }
+    &__content{
+        row-gap: .75rem;
+    }
+    &__address{
+        font-size: var(--small-fon-size);
+        font-weight: var(--font-semi-bold);
+        color: var(--title-color);
+    }
+    &__information{
+        font-weight: initial;
+        color: var(--text-color);
+    }
+}
